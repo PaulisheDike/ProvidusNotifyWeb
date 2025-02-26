@@ -1,0 +1,34 @@
+{
+  "Providus Notify" : {
+    "transaction" : "Providus Notify",
+    "sampleCount" : 15000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 19.146266666666758,
+    "medianResTime" : 18.0,
+    "minResTime" : 13.0,
+    "maxResTime" : 1032.0,
+    "pct1ResTime" : 22.0,
+    "pct2ResTime" : 23.0,
+    "pct3ResTime" : 27.0,
+    "throughput" : 25.000875030626073,
+    "receivedKBytesPerSec" : 55.153297552914346,
+    "sentKBytesPerSec" : 3.344843632027121
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 15000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 19.146266666666758,
+    "medianResTime" : 18.0,
+    "minResTime" : 13.0,
+    "maxResTime" : 1032.0,
+    "pct1ResTime" : 22.0,
+    "pct2ResTime" : 23.0,
+    "pct3ResTime" : 27.0,
+    "throughput" : 25.000875030626073,
+    "receivedKBytesPerSec" : 55.153297552914346,
+    "sentKBytesPerSec" : 3.344843632027121
+  }
+}
